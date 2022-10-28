@@ -1,0 +1,1 @@
+Hier werden wir die REST-Schnittstellen definieren.
